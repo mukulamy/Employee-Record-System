@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmployeeRecordSystem/static/css/main.d1277576.css",
+    "main.js": "/EmployeeRecordSystem/static/js/main.42d654da.js",
+    "static/js/787.63e47474.chunk.js": "/EmployeeRecordSystem/static/js/787.63e47474.chunk.js",
+    "index.html": "/EmployeeRecordSystem/index.html",
+    "main.d1277576.css.map": "/EmployeeRecordSystem/static/css/main.d1277576.css.map",
+    "main.42d654da.js.map": "/EmployeeRecordSystem/static/js/main.42d654da.js.map",
+    "787.63e47474.chunk.js.map": "/EmployeeRecordSystem/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1277576.css",
+    "static/js/main.42d654da.js"
+  ]
+}
